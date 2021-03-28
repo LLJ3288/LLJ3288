@@ -1,3 +1,4 @@
+<hr>
 ### Hi there 👋 
  I am Leonard L. Jones from Shreveport, Louisiana. 
   ### About Me
