@@ -19,7 +19,7 @@
 <br>
 <hr>
 
-(*Skills: VUE JS / REACT / JS / HTML / CSS*)
+(*Skills: Java / REACT / JS / HTML / CSS*)
 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
