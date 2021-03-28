@@ -14,7 +14,7 @@
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LLJ3288&langs_count=5&theme=tokyonight)]()
 
-
+<hr>
 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
