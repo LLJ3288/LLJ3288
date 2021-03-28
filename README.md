@@ -10,7 +10,7 @@
 <br>
 <br>
 <hr>
-
+(*Skills: Java / REACT / JS / HTML / CSS*)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
