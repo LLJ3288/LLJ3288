@@ -1,5 +1,12 @@
 ### Hi there 👋 
-  I am Leonard L. Jones
+  I am Leonard L. Jones from Shreveport, Louisiana. 
+  ### About Me
+🔭 I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021...
+<br>
+🌱 I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program...
+<br>
+👯 I’m looking forward to working in this exciting field and being as asset to any company and team if required...
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
@@ -19,9 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-🔭 I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021...
-<br>
-🌱 I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program...
-<br>
-👯 I’m looking forward to working in this exciting field and being as asset to any company and team if required...
