@@ -17,7 +17,7 @@
 
 <hr>
 <br>
-(*Skills: JAVA / REACT / JS / HTML / CSS / SPRING*)
+(*Skills:  JAVA / REACT / JS / HTML / CSS / SPRING*)
 
 
 <!--
