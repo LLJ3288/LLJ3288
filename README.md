@@ -10,8 +10,8 @@
 <br>
 <br>
 <hr>
-
-
+(*Skills: Java / REACT / JS / HTML / CSS*)
+<br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 <br>
@@ -19,7 +19,7 @@
 <br>
 <hr>
 
-(*Skills: Java / REACT / JS / HTML / CSS*)
+
 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
