@@ -7,10 +7,11 @@
 🌱 I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program...
 <br>
 👯 I’m looking forward to working in this exciting field and being as asset to any company and team if required...
+(*Skills: Java / REACT / JS / HTML / CSS*)
+
 <br>
 <br>
 <hr>
-(*Skills: Java / REACT / JS / HTML / CSS*)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
