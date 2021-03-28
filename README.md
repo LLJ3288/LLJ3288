@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 
-![These are some of my projects](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 
