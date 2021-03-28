@@ -7,6 +7,8 @@
 🌱 I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program...
 <br>
 👯 I’m looking forward to working in this exciting field and being as asset to any company and team if required...
+<br>
+<br>
 (*Skills: Java / REACT / JS / HTML / CSS*)
 
 <br>
