@@ -1,6 +1,7 @@
 ### Hi there 👋 
   I am Leonard L. Jones from Shreveport, Louisiana. 
   ### About Me
+  
 🔭 I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021...
 <br>
 🌱 I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program...
@@ -18,7 +19,7 @@
 <br>
 <hr>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+(*Skills: VUE JS / REACT / JS / HTML / CSS*)
 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
