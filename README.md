@@ -8,7 +8,6 @@
 <br>
 👯 I’m looking forward to working in this exciting field and being as asset to any company and team if required...
 <br>
-<hr>
 <br>
 <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
@@ -17,6 +16,9 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LLJ3288&langs_count=5&theme=tokyonight)]()
 
 <hr>
+<br>
+(*Skills: Java / REACT / JS / HTML / CSS*)
+
 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
