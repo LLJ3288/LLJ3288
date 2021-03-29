@@ -1,7 +1,6 @@
 <div class="header">
   <h1>Welcome</h1>
  </div>
-<img src="https://www.jquery-az.com/html/images/banana.jpg" title="Title of image" alt="alt text here"/>
 <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" title="Title of image" alt="alt text here"/>
 
 
