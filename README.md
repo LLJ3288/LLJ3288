@@ -1,7 +1,7 @@
 
 <div class="header">
   <h1>Welcome</h1>
- <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" title="Title of image" alt="alt text here"/> 
+ <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" width="40" height="40" title="Title of image" alt="alt text here"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
