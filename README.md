@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, My name is Leonard L. Jones
 #### Aspiring full stack developer.
-![Aspiring full stack developer.](/images/techfour.png)
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 
  I have recently completed a 16 week coding boot camp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I am currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team given the opportunity.
 
