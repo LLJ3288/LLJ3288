@@ -1,7 +1,6 @@
 <div class="header">
   <h1>Welcome</h1>
-  <p>My supercool header</p>
-</div>
+ </div>
 
 
 ### Hi there 👋 
