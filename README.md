@@ -19,7 +19,7 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 <hr>
 <br>
 <p>Programming Languages</p>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
   
  Skills:  REACT / JS / HTML / CSS 
 <div>
