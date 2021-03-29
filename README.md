@@ -1,7 +1,7 @@
 <div class="header">
   <h1>Welcome</h1>
  </div>
-
+ <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" title="Title of image" alt="alt text here"/>
 ###  Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
  #### I am a newly trained full stack developer.
   ### About Me
