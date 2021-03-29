@@ -26,7 +26,8 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
 </div>
- Skills:  REACT / JS / HTML / CSS 
+<p>Backend Development</p>
+  
 <div>
 
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
