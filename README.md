@@ -38,13 +38,6 @@ Here are some ideas to get you started:
   <h1>Header</h1>
   <p>My supercool header</p>
 </div>
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
 
 
 
