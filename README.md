@@ -44,15 +44,18 @@ Here are some ideas to get you started:
   <p>My supercool header</p>
 </div>
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, My name is Leonard L. Jones
+#### Aspiring full stack developer.
+![Aspiring full stack developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+ I have recently completed a 16 week coding boot camp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I am currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team given the opportunity.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:   REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 
