@@ -32,6 +32,8 @@ Skills:  REACT / JS / HTML / CSS
 </div>
 
 
+<img src="img_snowtops.jpg" class="w3-circle" alt="Norway" style="width:50%">
+
 
 
 
