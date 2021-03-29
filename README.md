@@ -2,6 +2,7 @@
   <h1>Welcome</h1>
  </div>
 <img src="https://www.jquery-az.com/html/images/banana.jpg" title="Title of image" alt="alt text here"/>
+<img src="" title="Title of image" alt="alt text here"/>
 
 
 ###  Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
