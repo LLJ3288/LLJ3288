@@ -4,7 +4,6 @@
 
 ###  Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
  #### I am a newly trained full stack developer.
- <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" title="Title of image" alt="alt text here"/>
   ### About Me
   
 I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team if required. 
