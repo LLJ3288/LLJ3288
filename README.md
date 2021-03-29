@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <h1>Header</h1>
 </div>
 
-### Hi there 👋, My name is Leonard L. Jones.
+### Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana.
 #### Full stack developer. 
 ![Full stack developer. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
