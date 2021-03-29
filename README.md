@@ -44,6 +44,9 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 
 <br>
 <br>
+
+<p>Project Clips</p>
+ <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
 <div class="header">
   <h1>Header</h1>
 </div>
