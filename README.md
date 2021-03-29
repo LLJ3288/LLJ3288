@@ -20,10 +20,12 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 <br>
 <p>Programming Languages</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
-  
+<p>Frontend Development</p> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
+
  Skills:  REACT / JS / HTML / CSS 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
