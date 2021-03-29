@@ -31,7 +31,10 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 <div>
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
 </div>
-
+<p>Database</p>
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
+<p>Baas</p>
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
