@@ -31,26 +31,6 @@ Skills:  REACT / JS / HTML / CSS
   <h1>Header</h1>
 </div>
 
-### Hi there 👋, My name is Leonard L. Jones.
-#### Full stack developer. 
-![Full stack developer. ](https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG)
-
-I have recently completed a 16 week coding boot camp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I am currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team if required.
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-### Hi there 👋, My name is Leonard L. Jones.
-#### Full stack developer. 
-![Full stack developer. ](https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG)
-
-I have recently completed a 16 week coding boot camp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I am currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team if required.
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 
 
