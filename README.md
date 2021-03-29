@@ -18,7 +18,7 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 
 <hr>
 <br>
-Skills:  REACT / JS / HTML / CSS  
+ 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
@@ -30,7 +30,7 @@ Skills:  REACT / JS / HTML / CSS
 <!--
 **LLJ3288/LLJ3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+Skills:  REACT / JS / HTML / CSS 
 <br>
 <br>
 <div class="header">
