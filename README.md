@@ -2,11 +2,6 @@
 <div class="header">
   <h1>Welcome</h1>
  <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" width="1200" height="430" title="Title of image" alt="alt text here"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="Title of image" alt="alt text here"/>
- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Title of image" alt="alt text here"/> 
  </div>
  
 ###  Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
