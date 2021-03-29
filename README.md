@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋 
- I am Leonard L. Jones from Shreveport, Louisiana. 
+ Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
   ### About Me
   
 🔭 I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021...
