@@ -51,7 +51,7 @@ I have recently completed a 16 week coding boot camp with Tech Talent South Shre
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
