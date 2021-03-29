@@ -2,9 +2,7 @@
 <div class="header">
   <h1>Welcome</h1>
  <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" title="Title of image" alt="alt text here"/> 
-  
-  <img src="img_snowtops.jpg" class="w3-circle" alt="Norway" style="width:50%">
-  
+ <img src="https://github.com/LLJ3288/LLJ3288/blob/main/techfour.PNG" class="w3-circle" alt="Alps">  
  </div>
  
 ###  Hi there 👋, My name is Leonard L. Jones from Shreveport, Louisiana. 
