@@ -8,7 +8,7 @@
  #### I am a newly trained full stack developer.
   ### About Me
   
-I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I’m currently working on improving my coding knowledge, abilities, and concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team if required. 
+I have recently completed a 16 week coding bootcamp with Tech Talent South Shreveport that spanned from November 2020 to March 2021. I am currently working on improving my coding knowledge, abilities, and related concepts covered and applied in the program. I’m looking forward to working in this exciting field and being as asset to any company and team once given the opportunity. 
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LLJ3288&count_private=true&theme=tokyonight&showicons=true)]()
@@ -18,7 +18,7 @@ I have recently completed a 16 week coding bootcamp with Tech Talent South Shrev
 
 <hr>
 <br>
-Skills:  JAVA / REACT / JS / HTML / CSS / SPRING
+Skills:  REACT / JS / HTML / CSS  
 
 
 <!--
