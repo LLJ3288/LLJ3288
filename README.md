@@ -1,5 +1,5 @@
 <div class="header">
-  <h1>Header</h1>
+  <h1>Welcome</h1>
   <p>My supercool header</p>
 </div>
 
