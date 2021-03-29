@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <br>
 <div class="header">
   <h1>Header</h1>
-  <p>My supercool header</p>
 </div>
 
 ### Hi there 👋, My name is Leonard L. Jones.
